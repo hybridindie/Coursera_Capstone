@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Git repo for Capstone Project
+# Coursera Capstone
+Git repo for completing the IBM Applied Data Science Capstone specialization on Coursera
